@@ -1,0 +1,5 @@
+- Remove unused code
+- Config eslint prettier git
+- App Layout
+- Setup App's File Routing
+- Setup Store & Lib
