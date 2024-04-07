@@ -15,8 +15,10 @@ bun dev
 ```
 
 ROUTING:
-[[localhost](http://localhost:3000/iphone)](http://localhost:3000/iphone):
+```
+[(http://localhost:3000/iphone)](http://localhost:3000/iphone):
 ![alt text](image.png)
 
-[[localhost](http://localhost:3000/mac/macbook-2021-16inches-16gb)](http://localhost:3000/mac/macbook-2021-16inches-16gb):
+[(http://localhost:3000/mac/macbook-2021-16inches-16gb)](http://localhost:3000/mac/macbook-2021-16inches-16gb):
 ![alt text](image-1.png)
+```
