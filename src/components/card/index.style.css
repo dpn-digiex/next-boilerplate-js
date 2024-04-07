@@ -1,0 +1,13 @@
+@tailwind components;
+
+@layer components {
+  .card {
+    @apply w-[18.25rem] bg-[#323232] rounded-3xl p-8 flex flex-col cursor-pointer;
+  }
+
+  .card:hover {
+    box-shadow:
+      -4px -4px 8px rgba(134, 134, 134, 0.2),
+      4px 4px 8px rgba(28, 28, 28, 0.4);
+  }
+}
